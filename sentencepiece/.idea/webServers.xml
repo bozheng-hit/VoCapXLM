@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38768d11-792c-49a9-8b5a-a80bc7664dca" name="linux">
+        <fileTransfer rootFolder="/home/v-zhebo" accessType="SFTP" host="GCRAZGDL750.redmond.corp.microsoft.com" port="22" sshConfigId="2395a68a-bb86-479f-a59b-ddcdc27c4174" sshConfig="FAREAST.v-zhebo@GCRAZGDL750.redmond.corp.microsoft.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
